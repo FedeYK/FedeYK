@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm Federico Barca, im a former Civil Engineer who transitioned to Computer Science!
+During the last year I have been studying a Master's Degree in Computer Science and Business Technolocy at IE University (Spain).
+
+<!--
+### My past as a Civil Engineer
+
+I have 9 years of experience in Civil Engineering, in the last years I was a project manager for a construction company. I directed the whole hidraulics project area and 
+-->
+
 
 <!--
 **FedeYK/FedeYK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
