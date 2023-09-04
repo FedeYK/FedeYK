@@ -5,7 +5,7 @@ I am a results-driven and highly motivated engineering expert with extensive pro
 As someone who thrives on new challenges, I am keen to apply my exploratory spirit and quick learning talents in the IT field. With a strong academic background in computer science and engineering, I am eager to use my knowledge of SQL, Python, C, JavaScript, and Cloud Services to make a major contribution to my future organization.
 
 In addition to my technical abilities, my extensive experience has sharpened my interpersonal and soft skills, making me a great communicator, negotiator, and team player, in addition to my technical prowess. I have established a great capacity to effectively interact with varied teams, maintain schedules, and ensure seamless project execution as a result of my expertise managing large-scale projects. My commitment to continual development has enabled me to succeed at resource management and developing great relationships with colleagues and stakeholders alike. As I move into the technology sector, I am convinced that my diverse skill set will significantly contribute to the success of my future ventures and the organizations with whom I interact.
-
+<!--
 <h3 align="left">My tech stack:</h3>
 
 ###
@@ -22,6 +22,7 @@ In addition to my technical abilities, my extensive experience has sharpened my 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" width="65" alt="googlecloud logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45" width="65" alt="amazonwebservices logo"  />
 </div>
+-->
 
 ###
 <!--
